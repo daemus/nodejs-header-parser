@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-header-parser",
+  "version": "0.0.1",
+  "description": "A Node.js Header-Parsing Microservice for freeCodeCamp.",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daemus/nodejs-header-parser"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
